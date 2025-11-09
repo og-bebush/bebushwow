@@ -15,7 +15,9 @@ Super comprehensive guide on how to play WoW with Bebush!
 
 ### Additional
 
-For better experience [get ElvUI addon](./addons)
+> Note: it's totally optional
+
+Default WoW UI is kinda ugly and with minimal customization, so for better experience [get ElvUI addon](./addons).
 
  ## First steps in game
 

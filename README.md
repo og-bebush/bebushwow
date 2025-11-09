@@ -15,7 +15,7 @@ Super comprehensive guide on how to play WoW with Bebush!
 
 ### Additional
 
-For better experience get ElvUI addon (check addons folder for ZIP and installtion instructions)
+For better experience [get ElvUI addon](./addons)
 
  ## First steps in game
 

@@ -9,7 +9,7 @@ Super comprehensive guide on how to play WoW with Bebush!
 2. Find "Files" tab in top navigation bar;
 3. Find "Download ULauncher for Windows";
 4. Download the launcher, open it;
-5. In the right bar, find **Legion** at the top (under UWOW.BIZ tab) and select it;
+5. In the right bar, find **Legion** at the top (under **UWOW.BIZ** tab) and select it;
 6. Proceed with install;
 7. While WoW client is installing, [register your account here](https://cp.uwow.biz/auth/register?invite=3084419)
 

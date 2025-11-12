@@ -18,7 +18,7 @@ For guides about roles & classes refer to directories above or [Tables of conten
     - [LVL 20-60](#20-60)
     - [LVL 60-80](#60-80)
     - [LVL 80-98](#80-98)
-    - [LVL 98-110](#98-110)
+    - [LVL 98-110](#legion)
 5. [Endgame](#endgame)
 
 ## Leveling guide

@@ -2,7 +2,7 @@
 
 This document will cover overall guides for the game.
 
-For guides about roles & classes refer to directories above or [Tables of contents](#table-of-contents) below
+For guides about roles & classes refer to directories above or [Tables of contents](#table-of-contents) below.
 
 
 ## Table of contents
@@ -19,7 +19,8 @@ For guides about roles & classes refer to directories above or [Tables of conten
     - [LVL 60-80](#60-80)
     - [LVL 80-98](#80-98)
     - [LVL 98-110](#legion)
-5. [Endgame](#endgame)
+    - [Endgame](#endgame)
+5. [Mythic Keys and Dungeons](#mythic-keys)
 
 ## Leveling guide
 
@@ -62,15 +63,18 @@ Now it gets messed up.
 
 5. You need to open initial **"Broken Isles"** locations with smaller dailies. 
 6. Additionally, upon reaching Dalaran, and finishing initial quests, **orange quest mark** should appear within Dalaran. It is a quest to your artefact weapon. It's important questline, go through it **immediately** when you get the quest.
+
+> Note: From here it's better to stick to this [questline roadmap](https://forum.uwow.biz/threads/gajd-cepochka-kvestov-argusa-i-dostizhenie-34-teper-vy-gotovy-33-34.286142/)
+
 7. While doing quests look for **"The Hands Fate"** as this quest is the most important. 
-8. When you'll get THF quest, TP to Orgrimmar, do the quests. You should be transported to Остров лазурной дымки.
+8. When you'll get THF quest, TP to Orgrimmar, do the quests. You should be transported to Azuremyst Isle.
 9. Get Vindikar to the Argus.
 
 Congrats, now you can start endgame content.
 
 10. From there you need to finish questline ASAP, so you'll get all 3 locations discovered - Antoran Wastes, Krokuun и Mac'Aree.
 
-## Endgame
+### Endgame
 
 Aight, it's time to get down to business.
 
@@ -93,3 +97,36 @@ Now you're ready to push dailies.
 
 Next thing is also really important - your Class Hub. In this hub you can obtain weekly rewards that drop items of different ILVL, **keys**, scrolls and other stuff.
 Additionally, hubs provide unique room where you can lvl up your artefact
+
+## Mythic Keys
+
+### Foreword
+First, let's clarify the goal of the keys: high-tier keys could give you legendaries, as well as 960+ ilvl items. After obtaining ~960 ilvl on a char, it could be counted as a maximum reaching point. In order to get BiS items (T20/T21 sets, and other items) you need to push Argus Raid (20+ version).
+
+Due to the fact that our party is really small, we cannot push Argus, so for now our goal is to push Mythic+ Keys until maxxed out ilvls on our main chars.
+
+After we reach high ilvl on out mains, we're planning to join some raids with randoms in order to get better items.
+
+If somehow we will expand to at least 10 members, there is a chance of making our own raid static party.
+
+### How to obtain keys?
+
+It's kinda simple, cuz there are three pretty straightforward ways:
+1. Go to any Mythic (non key) dungeon with your party or randoms. Upon finishing the dungeon, you'll obtain a Mythic Key as a reward. Dropped keys are used in a certain dungeon that is picked randomly by system. Fresh key difficulty is also a random number between 1 and 4.
+2. If you finished any key by the end of the week, you can obtain a reward from your Class Hall with a Mythic Key at the same difficulty as your highest completed key, or 1-3 levels higher. For example, if you finished 3 different keys with difficulty 10/15/20, then your reward key will have difficulty in range 20-23.
+3. After successfull completeion of any key, you will be rewarded with the key of the Mythic key of a higher difficulty.
+
+
+### How to push keys?
+
+3. Make a party of 5 chars (1 tank, 1 healler, 3 dds)
+4. Go to the dungeon location **on feet**
+5. Before entering the dungeon, make sure that your difficulty is set to Mythic!
+6. Enter the dungeon. At the very start there should be an interactable object, like a small statue or a wase. Click RMB on it, insert the key, make sure that everybody is in the dungeon and start.
+7. From there dungeon will be counted as Mythic+. Your party will be given with the timer (20-40 minutes, time depends on the difficulty). 
+8. Your goal is to kill each boss that is in the list (below the timer), and do it before timer reaches the end.
+
+Note that for each party member death there will be a penalty: -30 sec from timer.
+
+If your party will not finish the key under given time, consider the key failed, cuz you'll not be rewarded and the key will not be returned.
+

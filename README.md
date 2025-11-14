@@ -34,8 +34,8 @@ Some tips, if you wanna:
 | Tank            |  Heal       | DPS Melee        | DPS Range   | Hybrid  |
 |-----------------|-------------|------------------|-------------|---------|
 | Demon Hunter    | Paladin     | Demon Hunter     | Warlock     | Paladin |
-| Death Knight    | Druid       | Rogue            | Hunter      | Priest  |
-| Warrior         | Shaman      | Monk             | Mage        | X       |
+| Death Knight    | Druid       | Rogue            | Druid       | Priest  |
+| Warrior         | Priest      | Monk             | Mage        | X       |
 
 ### Leveling and further steps
 
@@ -45,14 +45,7 @@ First thing that you'll see is ElvUI greeter, just skip it and continue with the
 
 Aight, now your char is ready. Leveling is kinda easy due to the x100 rate, so you can level up within couple of hours.
 
-
-### Max level
-
-Congrats, now you reached max level. Now you can experience "latest" content:
-
-1. Try to open up all locations in Broken Isles ASAP (you can do it by continuing the questline).
-2. Each opened location will give you daily quests with nice rewards.
-3. Also check your Class Hall (it will be introduced by some quest, after reaching Dalaran and maxing out the level) - here you can obtain your spec legendary weapon and do some char progress.
+Refer to the [leveling guide](./guides/README.md) for more info.
 
 ## Keys and content
 

@@ -55,13 +55,13 @@ After reaching LVL 98, you'll be soloing most of the time due to the questline.
 
 1. **"Legion comeback"** quest should appear. If doesn't appear, it should be in Orgrimmar. Anyway TP to Orgrimmar and find the quest.
 2. Go through starter questline, until you get the quest in Orgrimmar port.
-3. Go to the port, finish quest, watch a cutscene of you and your team transporing to Dalaran.
-4. Go through the Dalaran quest, until Kadghar quest with flying to Surramar or until you end up on Расколотый берег.
+3. Go to the port, finish quest, speak to the NPC, watch a cutscene of you and your team transporing to Dalaran.
+4. Go through the Dalaran quest, until Kadghar quest with flying to Surramar or until you end up on **"Broken Isles"**.
 
 Now it gets messed up.
 
 5. You need to open initial **"Broken Isles"** locations with smaller dailies. 
-6. Additionally, you'll get the quest to your artefact weapon. It's important questline, go through it immediately when you get the quest.
+6. Additionally, upon reaching Dalaran, and finishing initial quests, **orange quest mark** should appear within Dalaran. It is a quest to your artefact weapon. It's important questline, go through it **immediately** when you get the quest.
 7. While doing quests look for **"The Hands Fate"** as this quest is the most important. 
 8. When you'll get THF quest, TP to Orgrimmar, do the quests. You should be transported to Остров лазурной дымки.
 9. Get Vindikar to the Argus.

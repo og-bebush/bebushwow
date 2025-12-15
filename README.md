@@ -26,7 +26,7 @@ Default WoW UI is kinda ugly and with minimal customization, so for better exper
 
 Now let's make your first char
 
-> Note: idk if Uwow offers cross-fractional parties, so it will be safer to make your char from **the Horde**
+> Note: Uwow offers cross-fractional parties, but for smoother lvling process, it will be safer to make your **first** char from **the Horde**
 
 You can pick any class you want, it will not actually matter.
 Some tips, if you wanna:
@@ -34,8 +34,8 @@ Some tips, if you wanna:
 | Tank            |  Heal       | DPS Melee        | DPS Range   | Hybrid  |
 |-----------------|-------------|------------------|-------------|---------|
 | Demon Hunter    | Paladin     | Demon Hunter     | Warlock     | Paladin |
-| Death Knight    | Druid       | Rogue            | Druid       | Priest  |
-| Warrior         | Priest      | Monk             | Mage        | X       |
+| Death Knight    | Druid       | Rogue            | Druid       | Druid   |
+| Warrior         | Priest      | Hunt             | Mage        | X       |
 
 ### Leveling and further steps
 
